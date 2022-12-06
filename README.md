@@ -1,8 +1,8 @@
 # test
 test for GIT training
 ## this is new line
-<h>this is header</h>
+<<<<<<< HEAD
 
 trying to work with Git
-
-undo committed change
+=======
+>>>>>>> parent of 493b856 (first commit via git cmd)
