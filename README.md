@@ -4,3 +4,5 @@ test for GIT training
 <h>this is header</h>
 
 trying to work with Git
+
+undo committed change
