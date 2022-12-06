@@ -6,4 +6,4 @@ else:
     
 print("to run in loop for n times input n = ")
 n = int(input(":"))
-print("this is to undo commit")
+print("this is for uncommiting")
