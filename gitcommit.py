@@ -5,6 +5,6 @@ else:
     print("I dont care!!")
     
 print("to run in loop for n times input n = ")
-n = int(input(":"))
+n = int(input(":"))         
 
-print("this is to be updated in new branch gitcommitbr")
+print("Is this new branch??")
